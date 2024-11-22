@@ -1,0 +1,15 @@
+E:\VGD\1721537\Code Archive\Notes\Notes\bin\Debug\net8.0\Notes.exe
+E:\VGD\1721537\Code Archive\Notes\Notes\bin\Debug\net8.0\Notes.deps.json
+E:\VGD\1721537\Code Archive\Notes\Notes\bin\Debug\net8.0\Notes.runtimeconfig.json
+E:\VGD\1721537\Code Archive\Notes\Notes\bin\Debug\net8.0\Notes.dll
+E:\VGD\1721537\Code Archive\Notes\Notes\bin\Debug\net8.0\Notes.pdb
+E:\VGD\1721537\Code Archive\Notes\Notes\obj\Debug\net8.0\Notes.GeneratedMSBuildEditorConfig.editorconfig
+E:\VGD\1721537\Code Archive\Notes\Notes\obj\Debug\net8.0\Notes.AssemblyInfoInputs.cache
+E:\VGD\1721537\Code Archive\Notes\Notes\obj\Debug\net8.0\Notes.AssemblyInfo.cs
+E:\VGD\1721537\Code Archive\Notes\Notes\obj\Debug\net8.0\Notes.csproj.CoreCompileInputs.cache
+E:\VGD\1721537\Code Archive\Notes\Notes\obj\Debug\net8.0\Notes.sourcelink.json
+E:\VGD\1721537\Code Archive\Notes\Notes\obj\Debug\net8.0\Notes.dll
+E:\VGD\1721537\Code Archive\Notes\Notes\obj\Debug\net8.0\refint\Notes.dll
+E:\VGD\1721537\Code Archive\Notes\Notes\obj\Debug\net8.0\Notes.pdb
+E:\VGD\1721537\Code Archive\Notes\Notes\obj\Debug\net8.0\Notes.genruntimeconfig.cache
+E:\VGD\1721537\Code Archive\Notes\Notes\obj\Debug\net8.0\ref\Notes.dll
