@@ -49,5 +49,9 @@ public class SmoothMovement : MonoBehaviour
         transform.position = new Vector3(Mathf.Lerp(startPointX, endPointX, timeThing), 
             Mathf.Lerp(startPointY, endPointY, timeThing), 
             Mathf.Lerp(startPointZ, endPointZ, timeThing));
+
+        float percent = Mathf.InverseLerp(startPointX, endPointX, Mathf.Lerp(startPointX, endPointX, timeThing));
+
+        Debug.Log(percent);
     }
 }
