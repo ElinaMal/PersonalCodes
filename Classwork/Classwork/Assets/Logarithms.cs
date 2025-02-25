@@ -2,17 +2,14 @@ using UnityEngine;
 
 public class Logarithms : MonoBehaviour
 {
-    [SerializeField] float number;
+    private float result;
+    [SerializeField] float a;
+    [SerializeField] float x;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        float logarithms = Mathf.Log(x, a);
+        float exponential = Mathf.Pow(a, logarithms);
     }
 }
